@@ -1,4 +1,4 @@
-# Hey there
+# Hey there :wave:
 I'm a Full Stack php developer.
 
 :bulb: Ask me about: 
