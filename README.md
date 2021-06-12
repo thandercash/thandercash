@@ -59,34 +59,15 @@ For more details see [stackoverflow!](https://stackoverflow.com/users/5991034)
             alt="jquery" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-    <a href="https://jwt.io/" target="_blank" title ="JWT"> <img
-            src="https://jwt.io/img/pic_logo.svg"
-            alt="JWT" width="40" height="40" /> </a>
+            alt="javascript" width="40" height="40" /> </a>    
     <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank" title ="Postman"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" title ="Python"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://wiki.python.org/moin/TkInter" target="_blank" title ="Tkinter"> <img
-            src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
-            alt="tkinter" width="40" height="40" /> </a>
-    <a href="https://www.unrealengine.com/en-US/" target="_blank" title ="Unreal Engine"> <img
-            src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
-            alt="unreal engine" width="40" height="40" /> </a>
-    <a href="https://www.xml.com/" target="_blank" title ="XML"> <img
-            src="https://cdn.iconscout.com/icon/free/png-512/xml-file-2330558-1950399.png"
-            alt="XML" width="40" height="40" /> </a>
+            alt="mongodb" width="40" height="40" /> </a> 
+    <a href="https://wordpress.org/" target="_blank" title ="wordpress"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"
+            alt="mongodb" width="40" height="40" /> </a> 
+    
+    
 
 
 </p> 
@@ -108,11 +89,11 @@ For more details see [stackoverflow!](https://stackoverflow.com/users/5991034)
 </p>
 
 ## 
-
+<!-- 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=thandercash&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
-</div>
+</div> -->
 
 ##
